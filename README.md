@@ -1,12 +1,12 @@
-# Hostate
+# co-store
 
-基于React Hooks实现**局部**的状态管理，类比Custom Hook，Hostate强调**基于功能**设计Store。
+基于Context + React Hooks实现**局部**的状态管理，类比Custom Hook，co-store强调**基于功能**设计Store。
 
 
 ## Installation
-npm：```npm i hostate```
+npm：```npm i co-store```
 
-yarn：```yarn add hostate```
+yarn：```yarn add co-store```
 
 ## API
 
